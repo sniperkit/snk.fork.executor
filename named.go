@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package executor
 
 // A NamedAction describes an Action that also has a unique identifier. This

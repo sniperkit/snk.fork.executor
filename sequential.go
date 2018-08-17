@@ -1,6 +1,13 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package executor
 
-import "context"
+import (
+	"context"
+)
 
 // Sequential implements the Executor Interface, performing each Action in series.
 type Sequential struct{}

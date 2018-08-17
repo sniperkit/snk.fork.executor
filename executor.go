@@ -1,6 +1,13 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package executor
 
-import "context"
+import (
+	"context"
+)
 
 // Interface describes an executor that performs a set of Actions. It is up to
 // the implementing type to define the concurrency and open/closed failure
